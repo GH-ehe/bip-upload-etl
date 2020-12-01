@@ -9,5 +9,7 @@ SELECT
                    || ' ' || jsonb_extract_path_text(t.v, 'version')
         from jsonb_each(comment->'bolt_ons') as t(k,v)), '|') as boltonversion
 FROM gh_flowcell 
-WHERE runId like '%<flowcellid>';
+WHERE runId like '%<flowcellid>'
+ORDER BY timestamp desc
+LIMIT 1;
 
