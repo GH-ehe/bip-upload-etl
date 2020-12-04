@@ -1,6 +1,8 @@
 -- INSERT Control Samples into s_sample table if the sampleid doesn't exist.
 -- This query depends on u_ghsampleqc table
 -- One parameter required: The runid for this flowcell upload
+--
+-- Notes: This job is used to be done in com.guardanthealth.lims.actions.controls.CreateSeqControlTubes action.
 
 INSERT INTO S_SAMPLE 
 (
