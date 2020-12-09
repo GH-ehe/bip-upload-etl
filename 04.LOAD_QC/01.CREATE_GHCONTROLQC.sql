@@ -42,6 +42,6 @@ INSERT INTO u_ghcontrolqc
 FROM u_ghsampleqc s 
     LEFT JOIN u_ghsdirgtlot l ON s.sampleid = l.linkkeyid1 
     LEFT JOIN REAGENTLOT r ON l.Reagentlotid = r.reagentlotid
-WHERE s.runid like '%<flowcellid>'
+WHERE s.runid = '<runid>'
     AND s.category='control' 
     GROUP BY s.sampleid;
