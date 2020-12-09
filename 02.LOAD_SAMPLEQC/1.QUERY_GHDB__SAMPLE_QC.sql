@@ -1,6 +1,6 @@
 -- Retrieve data from GHDB.sample_qc
 -- Required parameters:
---      <flowcellID> - Parameter sent from LIMS BIP Upload module through messaging queue.
+--      <runid> - Parameter sent from LIMS BIP Upload module through messaging queue.
 -- 
 SELECT run_sample_id,
        runid,
@@ -12,4 +12,4 @@ SELECT run_sample_id,
        operator,
        threshold,
        status
-FROM sample_qc where runid like '%<flowcellID>%';
+FROM sample_qc where runid = '<runid>';
