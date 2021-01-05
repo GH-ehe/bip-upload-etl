@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="922f776c-c250-4b78-a575-79fca9419cf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bip-upload-etl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.INITIAL_UPDATE_FLOWCELL/2.UPDATE_LIMS__U_GHFLOWCELL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/01.INITIAL_UPDATE_FLOWCELL/2.UPDATE_LIMS__U_GHFLOWCELL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.LOAD_SAMPLEQC/2.INSERT_LIMS_U_GHSAMPLEQC.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.LOAD_CONTROLS/1.INSERT_CONTROLS_INTO_S_SAMPLE.sql" beforeDir="false" afterPath="$PROJECT_DIR$/03.LOAD_CONTROLS/1.INSERT_CONTROLS_INTO_S_SAMPLE.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.LOAD_CONTROLS/2.INSERT_CONTROLS_INTO_U_GHSDIRGTLOT.sql" beforeDir="false" afterPath="$PROJECT_DIR$/03.LOAD_CONTROLS/2.INSERT_CONTROLS_INTO_U_GHSDIRGTLOT.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.LOAD_QC/01.CREATE_GHCONTROLQC.sql" beforeDir="false" afterPath="$PROJECT_DIR$/04.LOAD_QC/01.CREATE_GHCONTROLQC.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.LOAD_QC/02.CREATE_GHSAMPLEQCMETRICS.sql" beforeDir="false" afterPath="$PROJECT_DIR$/04.LOAD_QC/02.CREATE_GHSAMPLEQCMETRICS.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.LOAD_VARIANTS/01.GH_BOARD.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lRQAs5I2kYicKMuwkEH7Q4e7dW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="922f776c-c250-4b78-a575-79fca9419cf5" name="Default Changelist" comment="" />
+      <created>1607557283639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607557283639</updated>
+      <workItem from="1607557285474" duration="3358000" />
+      <workItem from="1607978409646" duration="14323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="497" y="243" width="670" height="676" key="search.everywhere.popup" timestamp="1607993309181">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="497" y="243" width="670" height="676" key="search.everywhere.popup/0.23.1920.1001@0.23.1920.1001" timestamp="1607993309181" />
+  </component>
+</project>
