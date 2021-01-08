@@ -112,7 +112,7 @@ FROM (
         MAX(s.SECURITYDEPARTMENT) AS SECURITYDEPARTMENT
     FROM 
         u_ghsampleqc qc JOIN s_sample s ON qc.sampleid = s.s_sampleid 
-    WHERE qc.runid like '%VV323LBCXY' 
+    WHERE qc.runid = '<runid>' 
         AND qc.category='sample' 
         GROUP BY qc.sampleid
 );
