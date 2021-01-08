@@ -95,7 +95,7 @@ INSERT INTO u_GHSampleQCMetrics
 FROM (
  SELECT 
     sampleid AS ACCESSIONID,
-    'VV323LBCXY' AS FLOWCELLID,
+    '<flowcellId>' AS FLOWCELLID,
     (SELECT 
         CASE upper(status) 
         WHEN 'PASS' THEN 'Pass'
